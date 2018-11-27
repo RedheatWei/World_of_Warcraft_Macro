@@ -20,17 +20,15 @@
 
 [random](https://wow.gamepedia.com/MACRO_random) - 生成从1到100的随机数。“/random X”将数字从1滚动到X，“/ random X Y”从X到Y滚动一个数字。
 
-[reload](https://wow.gamepedia.com/MACRO_reload) - Reloads the User Interface.
+[reload](https://wow.gamepedia.com/MACRO_reload) - 重载用户界面
 
-[script](https://wow.gamepedia.com/MACRO_script) - Runs a block of LUA code.
+[script](https://wow.gamepedia.com/MACRO_script) - 运行一块LUA代码。
 
-[stopmacro](https://wow.gamepedia.com/MACRO_stopmacro) - Stop processing the current macro.
+[stopmacro](https://wow.gamepedia.com/MACRO_stopmacro) - 停止处理当前的宏。
 
-[time](https://wow.gamepedia.com/MACRO_time) - Displays the current time
+[time](https://wow.gamepedia.com/MACRO_time) - 显示当前时间
 
-[timetest](https://wow.gamepedia.com/MACRO_timetest) - Used for benchmarking, also shows FPS.
+[timetest](https://wow.gamepedia.com/MACRO_timetest) - 用于基准测试，也显示FPS。
 
-[who](https://wow.gamepedia.com/MACRO_who) - Shows you a list of people matching filtering options.
-
-
+[who](https://wow.gamepedia.com/MACRO_who) - 显示匹配筛选选项的人员列表。
 
