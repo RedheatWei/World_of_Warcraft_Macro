@@ -2,7 +2,7 @@
 
 ###### 所有自定义聊天消息都可以利用[聊天替换](https://wow.gamepedia.com/Chat_substitutions)将动态内容插入到消息中。
 
-[afk](https://wow.gamepedia.com/MACRO_afk) - Marks you as "Away From Keyboard".
+[afk](https://wow.gamepedia.com/MACRO_afk) - 离开状态
 
 [announce](https://wow.gamepedia.com/MACRO_announce) - Toggle channel announcements.
 
@@ -65,6 +65,4 @@
 [whisper](https://wow.gamepedia.com/MACRO_tell) - Sends a private chat message to a player in a whisper.
 
 [yell](https://wow.gamepedia.com/MACRO_yell)- Sends a chat message to all players in your zone. Sends a chat message to your raid.
-
-
 
