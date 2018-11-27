@@ -14,15 +14,15 @@
 
 [chatinvite](https://wow.gamepedia.com/MACRO_chatinvite) - 邀请用户访问用户创建的聊天频道。
 
-[chatlist](https://wow.gamepedia.com/MACRO_chatlist) - Displays a list of users in a chat channel, or what channels you are currently a member of.
+[chatlist](https://wow.gamepedia.com/MACRO_chatlist) - 显示聊天频道中的用户列表，或您当前所属的频道。
 
-[chatlog](https://wow.gamepedia.com/MACRO_chatlog) - Enables/disables chat logging.
+[chatlog](https://wow.gamepedia.com/MACRO_chatlog) - 启用/禁用聊天记录
 
-[combatlog](https://wow.gamepedia.com/MACRO_combatlog) - Enables/disables combat logging.
+[combatlog](https://wow.gamepedia.com/MACRO_combatlog) - 启用/禁用战斗记录。
 
-[chathelp](https://wow.gamepedia.com/MACRO_chathelp) - Displays a list of commonly used chat commands.
+[chathelp](https://wow.gamepedia.com/MACRO_chathelp) - 显示常用聊天命令的列表。
 
-[ckick](https://wow.gamepedia.com/MACRO_ckick) - Kicks a user from a user-created chat channel.
+[ckick](https://wow.gamepedia.com/MACRO_ckick) - 从用户创建的聊天频道中踢出用户。
 
 [emote](https://wow.gamepedia.com/MACRO_emote) - Perform an emote with the given text.
 
