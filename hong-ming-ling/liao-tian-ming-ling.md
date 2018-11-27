@@ -40,7 +40,7 @@
 
 [officer](https://wow.gamepedia.com/MACRO_officer) - 向您的公会官员频道发送聊天消息。
 
-[owner](https://wow.gamepedia.com/MACRO_owner) - Displays or changes the owner of a user-created chat channel.
+[owner](https://wow.gamepedia.com/MACRO_owner) - 显示或更改用户创建的聊天频道的所有者。
 
 [password](https://wow.gamepedia.com/MACRO_password) - Sets or removes a password on a user-created chat channel.
 
