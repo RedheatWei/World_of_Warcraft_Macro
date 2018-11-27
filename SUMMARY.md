@@ -11,4 +11,5 @@
   * [公会命令](hong-ming-ling/gong-hui-ming-ling.md)
   * [队伍命令](hong-ming-ling/dui-wu-ming-ling.md)
   * [宠物命令](hong-ming-ling/chong-wu-ming-ling.md)
+  * [PVP命令](hong-ming-ling/pvpming-ling.md)
 
