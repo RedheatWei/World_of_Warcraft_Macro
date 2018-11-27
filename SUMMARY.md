@@ -13,4 +13,5 @@
   * [宠物命令](hong-ming-ling/chong-wu-ming-ling.md)
   * [PVP命令](hong-ming-ling/pvpming-ling.md)
   * [系统命令](hong-ming-ling/xi-tong-ming-ling.md)
+  * [目标命令](hong-ming-ling/mu-biao-ming-ling.md)
 
