@@ -4,15 +4,15 @@
 
 [afk](https://wow.gamepedia.com/MACRO_afk) - 离开状态
 
-[announce](https://wow.gamepedia.com/MACRO_announce) - Toggle channel announcements.
+[announce](https://wow.gamepedia.com/MACRO_announce) - 切换频道公告。
 
-[ban](https://wow.gamepedia.com/MACRO_ban) - Bans a user from a user-created chat channel.
+[ban](https://wow.gamepedia.com/MACRO_ban) - 从用户创建的聊天频道中禁止用户。
 
-[battleground](https://wow.gamepedia.com/MACRO_battleground) - Sends a chat message to your battleground.
+[battleground](https://wow.gamepedia.com/MACRO_battleground) - 向战场发送聊天消息。
 
-[csay](https://wow.gamepedia.com/MACRO_csay) - Sends chat text to a channel referenced by number only.
+[csay](https://wow.gamepedia.com/MACRO_csay) - 将聊天文本发送到仅由数字引用的频道。
 
-[chatinvite](https://wow.gamepedia.com/MACRO_chatinvite) - Invite a user to a user-created chat channel.
+[chatinvite](https://wow.gamepedia.com/MACRO_chatinvite) - 邀请用户访问用户创建的聊天频道。
 
 [chatlist](https://wow.gamepedia.com/MACRO_chatlist) - Displays a list of users in a chat channel, or what channels you are currently a member of.
 
