@@ -6,7 +6,7 @@
 
 [calendar](https://wow.gamepedia.com/MACRO_calendar) - 打开日历界面。
 
-[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - 打开Raid查找器。
+[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - 打开公会查找器。
 
 [dungeonfinder](https://wow.gamepedia.com/MACRO_dungeonfinder) - 打开地下城查找器.
 

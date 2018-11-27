@@ -24,21 +24,21 @@
 
 [ckick](https://wow.gamepedia.com/MACRO_ckick) - 从用户创建的聊天频道中踢出用户。
 
-[emote](https://wow.gamepedia.com/MACRO_emote) - Perform an emote with the given text.
+[emote](https://wow.gamepedia.com/MACRO_emote) - 使用给定文本执行表情。
 
-[dnd](https://wow.gamepedia.com/MACRO_dnd) - Marks you as "Do Not Disturb".
+[dnd](https://wow.gamepedia.com/MACRO_dnd) - 标记为“请勿打扰”。
 
-[guild](https://wow.gamepedia.com/MACRO_guild) - Sends a chat message to your guild.
+[guild](https://wow.gamepedia.com/MACRO_guild) - 向您的公会发送聊天消息。
 
-[join](https://wow.gamepedia.com/MACRO_join) - Joins or creates a user-created chat channel.
+[join](https://wow.gamepedia.com/MACRO_join) - 加入或创建用户创建的聊天频道。
 
-[leave](https://wow.gamepedia.com/MACRO_leave) - Leaves a user-created chat channel.
+[leave](https://wow.gamepedia.com/MACRO_leave) - 离开用户创建的聊天频道。
 
-[moderator](https://wow.gamepedia.com/MACRO_moderator) - Sets moderation in a user-created chat channel.
+[moderator](https://wow.gamepedia.com/MACRO_moderator) - 在用户创建的聊天频道中设置审核。
 
-[mute](https://wow.gamepedia.com/MACRO_mute) - Prevents a user from speaking \(voice or text\) in a user-created chat channel.
+[mute](https://wow.gamepedia.com/MACRO_mute) - 阻止用户在用户创建的聊天频道中说话（语音或文本）。
 
-[officer](https://wow.gamepedia.com/MACRO_officer) - Sends a chat message to your guild's officer channel.
+[officer](https://wow.gamepedia.com/MACRO_officer) - 向您的公会官员频道发送聊天消息。
 
 [owner](https://wow.gamepedia.com/MACRO_owner) - Displays or changes the owner of a user-created chat channel.
 
