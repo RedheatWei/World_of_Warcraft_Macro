@@ -42,15 +42,15 @@
 
 [owner](https://wow.gamepedia.com/MACRO_owner) - 显示或更改用户创建的聊天频道的所有者。
 
-[password](https://wow.gamepedia.com/MACRO_password) - Sets or removes a password on a user-created chat channel.
+[password](https://wow.gamepedia.com/MACRO_password) - 在用户创建的聊天频道上设置或删除密码。
 
-[party](https://wow.gamepedia.com/MACRO_party) - Sends a chat message to your party.
+[party](https://wow.gamepedia.com/MACRO_party) - 向小队发送聊天消息
 
-[raid](https://wow.gamepedia.com/MACRO_raid)[raid](https://wow.gamepedia.com/MACRO_raid) - Sends a chat message to your raid.
+[raid](https://wow.gamepedia.com/MACRO_raid)[raid](https://wow.gamepedia.com/MACRO_raid) - 向团队发送聊天消息
 
-[rw](https://wow.gamepedia.com/MACRO_rw) - Sends a raid warning to your raid.
+[rw](https://wow.gamepedia.com/MACRO_rw) - 发送团队告警
 
-[reply](https://wow.gamepedia.com/MACRO_reply) - Replies to the last user to send you a whisper with a message.
+[reply](https://wow.gamepedia.com/MACRO_reply) - 回复最后一位向您发送私聊的玩家。
 
 [resetchat](https://wow.gamepedia.com/MACRO_resetchat) - Resets chat settings to default.
 
