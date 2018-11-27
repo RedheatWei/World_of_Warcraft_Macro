@@ -2,13 +2,13 @@
 
 ###### 这些功能打开了暴雪界面的一部分
 
-[achievements](https://wow.gamepedia.com/MACRO_achievements) - Opens the Achievements interface.
+[achievements](https://wow.gamepedia.com/MACRO_achievements) - 打开“成就”界面。
 
-[calendar](https://wow.gamepedia.com/MACRO_calendar) - Opens the Calendar interface.
+[calendar](https://wow.gamepedia.com/MACRO_calendar) - 打开日历界面。
 
-[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - Opens the Guild Finder tool.
+[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - 打开团队查找器。
 
-[dungeonfinder](https://wow.gamepedia.com/MACRO_dungeonfinder) - Opens the Dungeon Finder interface.
+[dungeonfinder](https://wow.gamepedia.com/MACRO_dungeonfinder) - 打开地下城查找器.
 
 [loot](https://wow.gamepedia.com/MACRO_loot) - Open loot history
 
