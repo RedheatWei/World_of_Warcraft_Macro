@@ -46,48 +46,25 @@
 
 [party](https://wow.gamepedia.com/MACRO_party) - Sends a chat message to your party.
 
-[raid](https://wow.gamepedia.com/MACRO_raid)
+[raid](https://wow.gamepedia.com/MACRO_raid)[raid](https://wow.gamepedia.com/MACRO_raid) - Sends a chat message to your raid.
 
-- Sends a chat message to your raid.
+[rw](https://wow.gamepedia.com/MACRO_rw) - Sends a raid warning to your raid.
 
-[rw](https://wow.gamepedia.com/MACRO_rw)
+[reply](https://wow.gamepedia.com/MACRO_reply) - Replies to the last user to send you a whisper with a message.
 
-- Sends a raid warning to your raid.
+[resetchat](https://wow.gamepedia.com/MACRO_resetchat) - Resets chat settings to default.
 
-[reply](https://wow.gamepedia.com/MACRO_reply)
+[say](https://wow.gamepedia.com/MACRO_say) - Sends a chat message to players in your immediate local area.
 
-- Replies to the last user to send you a whisper with a message.
+[unban](https://wow.gamepedia.com/MACRO_unban) - Unbans a user from a user-created chat channel.
 
-[resetchat](https://wow.gamepedia.com/MACRO_resetchat)
+[unmoderator](https://wow.gamepedia.com/MACRO_unmoderator) - Removes moderation from a user-created chat channel.
 
-- Resets chat settings to default.
+[unmute](https://wow.gamepedia.com/MACRO_unmute) - Allows a user to speak \(voice or text\) in a user-created chat channel.
 
-[say](https://wow.gamepedia.com/MACRO_say)
+[whisper](https://wow.gamepedia.com/MACRO_tell) - Sends a private chat message to a player in a whisper.
 
-- Sends a chat message to players in your immediate local area.
-
-[unban](https://wow.gamepedia.com/MACRO_unban)
-
-- Unbans a user from a user-created chat channel.
-
-[unmoderator](https://wow.gamepedia.com/MACRO_unmoderator)
-
-- Removes moderation from a user-created chat channel.
-
-[unmute](https://wow.gamepedia.com/MACRO_unmute)
-
-- Allows a user to speak \(voice or text\) in a user-created chat channel.
-
-[whisper](https://wow.gamepedia.com/MACRO_tell)
-
-- Sends a private chat message to a player in a whisper.
-
-[yell](https://wow.gamepedia.com/MACRO_yell)
-
-- Sends a chat message to all players in your zone.
-
-  
-
+[yell](https://wow.gamepedia.com/MACRO_yell)- Sends a chat message to all players in your zone. Sends a chat message to your raid.
 
 
 
