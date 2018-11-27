@@ -6,17 +6,17 @@
 
 [calendar](https://wow.gamepedia.com/MACRO_calendar) - 打开日历界面。
 
-[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - 打开团队查找器。
+[guildfinder](https://wow.gamepedia.com/MACRO_guildfinder) - 打开Raid查找器。
 
 [dungeonfinder](https://wow.gamepedia.com/MACRO_dungeonfinder) - 打开地下城查找器.
 
-[loot](https://wow.gamepedia.com/MACRO_loot) - Open loot history
+[loot](https://wow.gamepedia.com/MACRO_loot) - 打开掉落历史
 
-[macro](https://wow.gamepedia.com/MACRO_macro) - Opens the Macro interface.
+[macro](https://wow.gamepedia.com/MACRO_macro) - 打开宏命令界面
 
-[raidfinder](https://wow.gamepedia.com/MACRO_lfr) - Opens the Raid Browser.
+[raidfinder](https://wow.gamepedia.com/MACRO_lfr) - 打开Raid浏览器。
 
-[share](https://wow.gamepedia.com/MACRO_share) - Share to Twitter.
+[share](https://wow.gamepedia.com/MACRO_share) - 分享到Twitter
 
-[stopwatch](https://wow.gamepedia.com/MACRO_stopwatch) - Opens the Stopwatch interface.
+[stopwatch](https://wow.gamepedia.com/MACRO_stopwatch) - 打开秒表界面。
 
