@@ -58,11 +58,11 @@
 
 [unban](https://wow.gamepedia.com/MACRO_unban) - 从用户创建的聊天频道取消用户禁言。
 
-[unmoderator](https://wow.gamepedia.com/MACRO_unmoderator) - Removes moderation from a user-created chat channel.
+[unmoderator](https://wow.gamepedia.com/MACRO_unmoderator) - 从用户创建的聊天频道中删除审核。
 
-[unmute](https://wow.gamepedia.com/MACRO_unmute) - Allows a user to speak \(voice or text\) in a user-created chat channel.
+[unmute](https://wow.gamepedia.com/MACRO_unmute) - 允许用户在用户创建的聊天频道中说话（语音或文字）。
 
-[whisper](https://wow.gamepedia.com/MACRO_tell) - Sends a private chat message to a player in a whisper.
+[whisper](https://wow.gamepedia.com/MACRO_tell) - 私聊玩家。
 
-[yell](https://wow.gamepedia.com/MACRO_yell)- Sends a chat message to all players in your zone. Sends a chat message to your raid.
+[yell](https://wow.gamepedia.com/MACRO_yell)- 向您所在区域中的所有玩家发送聊天消息。
 
