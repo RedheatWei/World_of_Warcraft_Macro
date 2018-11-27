@@ -52,11 +52,11 @@
 
 [reply](https://wow.gamepedia.com/MACRO_reply) - 回复最后一位向您发送私聊的玩家。
 
-[resetchat](https://wow.gamepedia.com/MACRO_resetchat) - Resets chat settings to default.
+[resetchat](https://wow.gamepedia.com/MACRO_resetchat) - 重置聊天设置
 
-[say](https://wow.gamepedia.com/MACRO_say) - Sends a chat message to players in your immediate local area.
+[say](https://wow.gamepedia.com/MACRO_say) - 向您当地的玩家发送聊天消息。
 
-[unban](https://wow.gamepedia.com/MACRO_unban) - Unbans a user from a user-created chat channel.
+[unban](https://wow.gamepedia.com/MACRO_unban) - 从用户创建的聊天频道取消用户禁言。
 
 [unmoderator](https://wow.gamepedia.com/MACRO_unmoderator) - Removes moderation from a user-created chat channel.
 
