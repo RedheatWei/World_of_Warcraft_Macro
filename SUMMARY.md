@@ -10,4 +10,5 @@
   * [战斗命令](hong-ming-ling/zhan-dou-ming-ling.md)
   * [公会命令](hong-ming-ling/gong-hui-ming-ling.md)
   * [队伍命令](hong-ming-ling/dui-wu-ming-ling.md)
+  * [宠物命令](hong-ming-ling/chong-wu-ming-ling.md)
 
