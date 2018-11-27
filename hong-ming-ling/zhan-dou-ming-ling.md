@@ -10,27 +10,25 @@
 
 [cast](https://wow.gamepedia.com/MACRO_cast) - 使用给定的项目或施放给定的技能。
 
-[castrandom](https://wow.gamepedia.com/MACRO_castrandom) - Casts a random spell or uses a random item from the given list.
+[castrandom](https://wow.gamepedia.com/MACRO_castrandom) - 施放随机技能或使用给定列表中的随机物品。
 
-[castsequence](https://wow.gamepedia.com/MACRO_castsequence) - Casts the given spells in sequential order.
+[castsequence](https://wow.gamepedia.com/MACRO_castsequence) - 按顺序施放给定的技能。
 
-[changeactionbar](https://wow.gamepedia.com/MACRO_changeactionbar) - Changes your current action bar page.
+[changeactionbar](https://wow.gamepedia.com/MACRO_changeactionbar) - 更改您当前的操作栏页面。
 
-[startattack](https://wow.gamepedia.com/MACRO_startattack) - Turns on auto-attack.
+[startattack](https://wow.gamepedia.com/MACRO_startattack) - 打开自动攻击
 
-[stopattack](https://wow.gamepedia.com/MACRO_stopattack) - Turns off auto-attack.
+[stopattack](https://wow.gamepedia.com/MACRO_stopattack) - 关闭自动攻击.
 
-[stopcasting](https://wow.gamepedia.com/MACRO_stopcasting) - Stops casting or channeling.
+[stopcasting](https://wow.gamepedia.com/MACRO_stopcasting) -  停止释放或引导
 
-[stopspelltarget](https://wow.gamepedia.com/MACRO_stopspelltarget) - Cancel the spell or ability currently being targetted.
+[stopspelltarget](https://wow.gamepedia.com/MACRO_stopspelltarget) - 取消当前选择的技能。
 
-[swapactionbar](https://wow.gamepedia.com/MACRO_swapactionbar) - Swaps between two given action bars.
+[swapactionbar](https://wow.gamepedia.com/MACRO_swapactionbar) - 两个给定的操作栏之间的交换。
 
-[use](https://wow.gamepedia.com/MACRO_use) - Use an item or cast a spell.
+[use](https://wow.gamepedia.com/MACRO_use) - 使用物品或释放技能
 
-[usetoy](https://wow.gamepedia.com/MACRO_usetoy) - Use a toy.
+[usetoy](https://wow.gamepedia.com/MACRO_usetoy) - 使用玩具
 
-[userandom](https://wow.gamepedia.com/MACRO_userandom) - Casts a random spell or uses a random item from the given list.
-
-
+[userandom](https://wow.gamepedia.com/MACRO_userandom) - 施放随机技能或使用给定列表中的随机物品。
 
