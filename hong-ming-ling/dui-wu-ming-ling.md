@@ -12,27 +12,25 @@
 
 [mainassist](https://wow.gamepedia.com/MACRO_mainassist) -  设置主辅助。
 
-[mainassistoff](https://wow.gamepedia.com/MACRO_mainassistoff) - Clears the current Main Assist.
+[mainassistoff](https://wow.gamepedia.com/MACRO_mainassistoff) - 清除当前的主辅助。
 
 [maintank](https://wow.gamepedia.com/MACRO_maintank) - 设置主坦克
 
 [maintankoff](https://wow.gamepedia.com/MACRO_maintankoff) - 取消主坦克
 
-[promote](https://wow.gamepedia.com/MACRO_promote) - Promotes the given member to Party or Raid leader.
+[promote](https://wow.gamepedia.com/MACRO_promote) - 移交队长
 
-[raidinfo](https://wow.gamepedia.com/MACRO_raidinfo) - Shows you what instances you are saved to, along with the Instance ID.
+[raidinfo](https://wow.gamepedia.com/MACRO_raidinfo) - 显示保存到的raid以及raid ID。
 
-[readycheck](https://wow.gamepedia.com/MACRO_readycheck) - Performs a ready check in your raid or party.
+[readycheck](https://wow.gamepedia.com/MACRO_readycheck) - 就位确认
 
-[requestinvite](https://wow.gamepedia.com/MACRO_requestinvite) - Request to be invited to the specified group.
+[requestinvite](https://wow.gamepedia.com/MACRO_requestinvite) - 请求加入队伍
 
-[targetmarker](https://wow.gamepedia.com/MACRO_targetmarker) - Sets or clears a target marker from your current target.
+[targetmarker](https://wow.gamepedia.com/MACRO_targetmarker) - 设置或清除当前目标的标记。
 
-[threshold](https://wow.gamepedia.com/MACRO_threshold) - Sets the loot threshold to apply loot rules.
+[threshold](https://wow.gamepedia.com/MACRO_threshold) - 设置战利品阈值以应用战利品规则。
 
-[uninvite](https://wow.gamepedia.com/MACRO_uninvite) - Removes a player from your current party or raid.
+[uninvite](https://wow.gamepedia.com/MACRO_uninvite) - 在队伍中移除玩家
 
-[worldmarker](https://wow.gamepedia.com/MACRO_worldmarker) - Allows placement of world markers.
-
-
+[worldmarker](https://wow.gamepedia.com/MACRO_worldmarker) - 允许放置世界标记。
 
