@@ -7,4 +7,5 @@
   * [聊天命令](hong-ming-ling/liao-tian-ming-ling.md)
   * [角色命令](hong-ming-ling/jiao-se-ming-ling.md)
   * [开发工具](hong-ming-ling/kai-fa-gong-ju.md)
+  * [战斗命令](hong-ming-ling/zhan-dou-ming-ling.md)
 
